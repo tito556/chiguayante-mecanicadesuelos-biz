@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Chiguayante
+
+> Geotechnical engineering services in Chiguayante, Chile.
+
+## Services
+- [Aislacion Sismica](https://chiguayante.mecanicadesuelos.biz/aislacion-sismica/)
+- [Anclajes](https://chiguayante.mecanicadesuelos.biz/anclajes/)
+- [Calicatas](https://chiguayante.mecanicadesuelos.biz/calicatas/)
+- [Cbr Vial](https://chiguayante.mecanicadesuelos.biz/cbr-vial/)
+- [Cimentaciones](https://chiguayante.mecanicadesuelos.biz/cimentaciones/)
+- [Columnas Grava](https://chiguayante.mecanicadesuelos.biz/columnas-grava/)
+- [Densidad Cono Arena](https://chiguayante.mecanicadesuelos.biz/densidad-cono-arena/)
+- [Ensayo Cpt](https://chiguayante.mecanicadesuelos.biz/ensayo-cpt/)
+- [Ensayos Proctor](https://chiguayante.mecanicadesuelos.biz/ensayos-proctor/)
+- [Estabilidad Taludes](https://chiguayante.mecanicadesuelos.biz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://chiguayante.mecanicadesuelos.biz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://chiguayante.mecanicadesuelos.biz/excavaciones-subterraneo/)
+- [Exploracion](https://chiguayante.mecanicadesuelos.biz/exploracion/)
+- [Geotecnia Vial](https://chiguayante.mecanicadesuelos.biz/geotecnia-vial/)
+- [Granulometria](https://chiguayante.mecanicadesuelos.biz/granulometria/)
+- [Inyecciones](https://chiguayante.mecanicadesuelos.biz/inyecciones/)
+- [Laboratorio In Situ](https://chiguayante.mecanicadesuelos.biz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://chiguayante.mecanicadesuelos.biz/laboratorio-lab/)
+- [Licuefaccion](https://chiguayante.mecanicadesuelos.biz/licuefaccion/)
+- [Limites Atterberg](https://chiguayante.mecanicadesuelos.biz/limites-atterberg/)
+- [Losas Fundacion](https://chiguayante.mecanicadesuelos.biz/losas-fundacion/)
+- [Masw](https://chiguayante.mecanicadesuelos.biz/masw/)
+- [Mejoramiento](https://chiguayante.mecanicadesuelos.biz/mejoramiento/)
+- [Microzonificacion Sismica](https://chiguayante.mecanicadesuelos.biz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://chiguayante.mecanicadesuelos.biz/monitoreo-excavaciones/)
+- [Muros Contencion](https://chiguayante.mecanicadesuelos.biz/muros-contencion/)
+- [Pavimento Flexible](https://chiguayante.mecanicadesuelos.biz/pavimento-flexible/)
+- [Pavimento Rigido](https://chiguayante.mecanicadesuelos.biz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://chiguayante.mecanicadesuelos.biz/permeabilidad-in-situ/)
+- [Pilotes](https://chiguayante.mecanicadesuelos.biz/pilotes/)
+- [Refraccion Sismica](https://chiguayante.mecanicadesuelos.biz/refraccion-sismica/)
+- [Resistividad](https://chiguayante.mecanicadesuelos.biz/resistividad/)
+- [Sismica](https://chiguayante.mecanicadesuelos.biz/sismica/)
+- [Sondajes Spt](https://chiguayante.mecanicadesuelos.biz/sondajes-spt/)
+- [Taludes](https://chiguayante.mecanicadesuelos.biz/taludes/)
+- [Triaxial](https://chiguayante.mecanicadesuelos.biz/triaxial/)
+- [Tuneles Suelo Blando](https://chiguayante.mecanicadesuelos.biz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://chiguayante.mecanicadesuelos.biz/vibrocompactacion/)
+- [Zapatas](https://chiguayante.mecanicadesuelos.biz/zapatas/)
+
+## Contact
+- Website: https://chiguayante.mecanicadesuelos.biz/
+
+## About
+This site provides geotechnical engineering services in Chiguayante, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
