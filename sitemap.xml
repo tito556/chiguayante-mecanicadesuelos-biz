@@ -2,166 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap-0.9">
   <url>
     <loc>https://chiguayante.mecanicadesuelos.biz/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/pavimento-flexible</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/aislacion-sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/ensayo-cpt</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/anclajes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/granulometria</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/calicatas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/aislacion-sismica</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/cbr-vial/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/refraccion-sismica</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/cimentaciones/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/losas-fundacion</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/columnas-grava/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/permeabilidad-in-situ</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/densidad-cono-arena/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/calicatas</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/ensayo-cpt/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/zapatas</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/ensayos-proctor/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/tuneles-suelo-blando</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/estabilidad-taludes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/densidad-cono-arena</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/excavaciones-profundas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/pavimento-rigido</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/excavaciones-subterraneo/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/ensayos-proctor</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/exploracion/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/inyecciones</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/geotecnia-vial/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/estabilidad-taludes</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/granulometria/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/muros-contencion</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/inyecciones/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/masw</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/laboratorio-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/sondajes-spt</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/laboratorio-lab/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/vibrocompactacion</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/licuefaccion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/resistividad</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/limites-atterberg/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/monitoreo-excavaciones</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/losas-fundacion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/anclajes</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/masw/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/microzonificacion-sismica</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/mejoramiento/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/columnas-grava</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/microzonificacion-sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/cbr-vial</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/monitoreo-excavaciones/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/excavaciones-profundas</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/muros-contencion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/licuefaccion</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/pavimento-flexible/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/contacto</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/pavimento-rigido/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/limites-atterberg</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/permeabilidad-in-situ/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/pilotes</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/pilotes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/triaxial</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/refraccion-sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chiguayante.mecanicadesuelos.biz/privacidad</loc>
+    <loc>https://chiguayante.mecanicadesuelos.biz/resistividad/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chiguayante.mecanicadesuelos.biz/sismica/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chiguayante.mecanicadesuelos.biz/sitemap/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://chiguayante.mecanicadesuelos.biz/sondajes-spt/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chiguayante.mecanicadesuelos.biz/taludes/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chiguayante.mecanicadesuelos.biz/triaxial/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chiguayante.mecanicadesuelos.biz/tuneles-suelo-blando/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chiguayante.mecanicadesuelos.biz/vibrocompactacion/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chiguayante.mecanicadesuelos.biz/zapatas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
